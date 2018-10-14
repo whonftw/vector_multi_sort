@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vector_multi_sort", "vector_multi_sort.vcxproj", "{B591DA96-1AB5-4E4A-ABE7-E4BE27568AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B591DA96-1AB5-4E4A-ABE7-E4BE27568AAF}.Debug|x64.ActiveCfg = Debug|x64
+		{B591DA96-1AB5-4E4A-ABE7-E4BE27568AAF}.Debug|x64.Build.0 = Debug|x64
+		{B591DA96-1AB5-4E4A-ABE7-E4BE27568AAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{B591DA96-1AB5-4E4A-ABE7-E4BE27568AAF}.Debug|x86.Build.0 = Debug|Win32
+		{B591DA96-1AB5-4E4A-ABE7-E4BE27568AAF}.Release|x64.ActiveCfg = Release|x64
+		{B591DA96-1AB5-4E4A-ABE7-E4BE27568AAF}.Release|x64.Build.0 = Release|x64
+		{B591DA96-1AB5-4E4A-ABE7-E4BE27568AAF}.Release|x86.ActiveCfg = Release|Win32
+		{B591DA96-1AB5-4E4A-ABE7-E4BE27568AAF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F12ED77-1B04-49C3-BF73-86CD4880C9C6}
+	EndGlobalSection
+EndGlobal
